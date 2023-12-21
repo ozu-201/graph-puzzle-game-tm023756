@@ -1,0 +1,14 @@
+//
+// Created by tm023756 on 12/21/2023.
+//
+
+#ifndef GRAPH_PUZZLE_GAME_TM023756_MAIN_H
+#define GRAPH_PUZZLE_GAME_TM023756_MAIN_H
+
+
+class main {
+
+};
+
+
+#endif //GRAPH_PUZZLE_GAME_TM023756_MAIN_H

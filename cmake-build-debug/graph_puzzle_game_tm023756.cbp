@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="graph_puzzle_game_tm023756"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="graph_puzzle_game_tm023756">
+				<Option output="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/cmake-build-debug/libgraph_puzzle_game_tm023756.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/cmake-build-debug/Makefile&quot;  VERBOSE=1 graph_puzzle_game_tm023756"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="graph_puzzle_game_tm023756/fast">
+				<Option output="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/cmake-build-debug/libgraph_puzzle_game_tm023756.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/cmake-build-debug/Makefile&quot;  VERBOSE=1 graph_puzzle_game_tm023756/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/Array/DisjointSet.cpp">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/Array/DisjointSet.h">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/Array/Element.cpp">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/Array/Element.h">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/Array/Graph/Graph.cpp">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/Array/Graph/Graph.h">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/Array/Hash.cpp">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/Array/Hash.h">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/Array/Heap/DHeap.cpp">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/Array/Heap/DHeap.h">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/Array/Heap/Heap.cpp">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/Array/Heap/Heap.h">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/Array/Heap/HeapNode.cpp">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/Array/Heap/HeapNode.h">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/Array/Heap/MaxDHeap.cpp">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/Array/Heap/MaxDHeap.h">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/Array/Heap/MaxHeap.cpp">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/Array/Heap/MaxHeap.h">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/Array/Heap/MinDHeap.cpp">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/Array/Heap/MinDHeap.h">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/Array/Heap/MinHeap.cpp">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/Array/Heap/MinHeap.h">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/Array/Queue.cpp">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/Array/Queue.h">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/Array/Set.cpp">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/Array/Set.h">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/Array/Stack.cpp">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/Array/Stack.h">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/BFS.cpp">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/BFS.h">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/DictionaryReader.cpp">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/DictionaryReader.h">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/General/AbstractGraph.cpp">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/General/AbstractGraph.h">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/General/Path.cpp">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/General/Path.h">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/GraphBuilder.cpp">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/GraphBuilder.h">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/List/DoublyLinkedList.cpp">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/List/DoublyLinkedList.h">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/List/DoublyNode.cpp">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/List/DoublyNode.h">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/List/Graph/Edge.cpp">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/List/Graph/Edge.h">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/List/Graph/EdgeList.cpp">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/List/Graph/EdgeList.h">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/List/Hash.cpp">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/List/Hash.h">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/List/LinkedList.cpp">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/List/LinkedList.h">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/List/Node.cpp">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/List/Node.h">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/List/Queue.cpp">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/List/Queue.h">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/List/Stack.cpp">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/List/Stack.h">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/Tree/Element.cpp">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/Tree/Element.h">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/Tree/Queue.cpp">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/Tree/Queue.h">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/Tree/Stack.cpp">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/Tree/Stack.h">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/Tree/Tree.cpp">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/Tree/Tree.h">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/Tree/TreeNode.cpp">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/src/Tree/TreeNode.h">
+			<Option target="graph_puzzle_game_tm023756"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

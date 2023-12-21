@@ -1,4 +1,11 @@
-"C:\Program Files\JetBrains\CLion 2023.1.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.1.4/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\TEMP\Documents\GitHub\graph-puzzle-game-tm023756 -B C:\Users\TEMP\Documents\GitHub\graph-puzzle-game-tm023756\cmake-build-debug
--- Configuring done
--- Generating done
--- Build files have been written to: C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/cmake-build-debug
+"C:\Program Files\JetBrains\CLion 2023.1.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S C:\Users\TEMP\Documents\GitHub\graph-puzzle-game-tm023756 -B C:\Users\TEMP\Documents\GitHub\graph-puzzle-game-tm023756\cmake-build-debug
+CMake Error at CMakeLists.txt:19 (add_executable):
+  add_executable cannot create target "graph_puzzle_game_tm023756" because
+  another target with the same name already exists.  The existing target is a
+  static library created in source directory
+  "C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756".  See
+  documentation for policy CMP0002 for more details.
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-tm023756/cmake-build-debug/CMakeFiles/CMakeOutput.log".
